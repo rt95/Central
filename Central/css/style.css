@@ -1,0 +1,116 @@
+/* Welcome to Central*/
+.header {
+  text-align: center; }
+
+/* explore.php */
+.panel-width {
+  text-align: center;
+  width: 50%;
+  margin: 50px auto; }
+
+.panel-width input {
+  margin-bottom: 15px; }
+
+.special {
+  width: 50%;
+  margin: 0 auto; }
+
+/* home.php dropdown menu */
+.dropdown-menu-right {
+  margin-top: 15px; }
+
+.dropdown-menu-center {
+  left: 50%;
+  right: auto;
+  transform: translate(-50%, 0);
+  text-align: center; }
+
+/* home.php edit margins */
+#editMargins {
+  margin-top: 50px;
+  margin-bottom: 15px; }
+
+.editMargins2 {
+  margin: auto;
+  width: 50%; }
+
+.editMargins3 {
+  margin: auto;
+  width: 50%;
+  text-align: center; }
+
+.editMargins4 {
+  margin: auto;
+  margin-top: 15px;
+  width: 50%; }
+
+.editMargins5 {
+  margin: auto;
+  margin-bottom: 150px;
+  width: 50%; }
+
+/* all special tables centered*/
+.table {
+  text-align: center; }
+
+.table th {
+  text-align: center; }
+
+/* home.php thumnail and img centering*/
+.well img {
+  margin-right: 10px; }
+
+.center {
+  display: inline-block; }
+
+.thumbnail {
+  display: inline-block; }
+
+.thumbnail li {
+  list-style: none; }
+
+/* Date of Birth */
+.datefield {
+  display: inline;
+  padding: 0.3em;
+  border: inset 1px #CCC;
+  background: #FFF;
+  border-radius: 4px;
+  color: #666; }
+
+.datefield * {
+  display: inline-block; }
+
+.datefield input {
+  width: 2.5em;
+  padding: 0 0.4em;
+  border: none;
+  font-size: 100%;
+  background: none;
+  color: #000; }
+
+.datefield input#year {
+  width: 4.5em; }
+
+.datefield input:focus {
+  outline: none; }
+
+/* textAngular */
+.ta-editor {
+  height: auto;
+  max-width: 100%;
+  word-wrap: break-word; }
+
+.ta-toolbar {
+  background-color: #F0F0F0;
+  padding: 10px 10px 5px;
+  margin-left: 0px;
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap; }
+
+.btn-group {
+  margin-right: 10px;
+  margin-top: 10px; }
+
+/*# sourceMappingURL=style.css.map */
