@@ -1,5 +1,5 @@
 # Central
 
-Jedan on mojih prvih projekata,napravljen sa AngularJS v2,mySql,bootstrap i PHP, self-taught.
+One of my very first projects,made with Angular,mySql,bootstrap and PHP, self-taught.
 
 <img src="Media/central-video.gif">
